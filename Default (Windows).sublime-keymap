@@ -6,7 +6,5 @@
 		"working_dir": "${folder}"
 	},
 
-	{ "keys": ["ctrl+period"], "command": "open_rspec_file", "args": {} },
-
-	{ "keys": ["ctrl+alt+n"], "command": "rspec_create_module", "args": {} }
+	{ "keys": ["ctrl+period"], "command": "open_rspec_file", "args": {} }
 ]
